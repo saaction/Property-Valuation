@@ -9,13 +9,20 @@ Manage all your real estate property valuation doocument online following are ke
 
 - Multiple Bank & Branch wise Report Formating
 - Staff wise Property Visit detailed information
-- Direct 
+- PDF output of the report
 - Multiple branch available
-
 - Historical Data Maintainance
 
 
+## Reports
+- Bank wise Report Summary
+- Valuation Report Summary
+- Monthly Performa Invoice
+- Monthly Tax Invoice
+- Billing Status
+- Expense Register
 
-```bash
-pip install foobar
-```
+
+Please contact to :
+Samir Maheta
+saaction@gmail.com
