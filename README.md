@@ -8,6 +8,7 @@ Online Property Valuation Software, Real Estate Property Valuation Software
 Manage all your real estate property valuation doocument online following are key-features about the software
 
 - Multiple Bank & Branch wise Report Formating
+- 30+ Bank Report Format already implemented
 - Staff wise Property Visit detailed information
 - PDF output of the report
 - Multiple branch available
