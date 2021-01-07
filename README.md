@@ -14,7 +14,6 @@ Manage all your real estate property valuation doocument online following are ke
 - Multiple branch available
 - Historical Data Maintainance
 
-
 ## Reports
 - Bank wise Report Summary
 - Valuation Report Summary
@@ -22,6 +21,9 @@ Manage all your real estate property valuation doocument online following are ke
 - Monthly Tax Invoice
 - Billing Status
 - Expense Register
+
+## Software Configuration
+[![Quick Introduction](https://img.youtube.com/vi/NGFpLpVHx2A/0.jpg)](https://www.youtube.com/embed/NGFpLpVHx2A)
 
 
 Please contact to :
